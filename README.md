@@ -15,7 +15,7 @@ Created by *GoodBritt14*.
 - Configuration [Nope]
 
 ### Commands
--Basic UHC Commands
+- Basic UHC Commands
 **/uhc <sub> <value>**
 - Sub-Commands
 > **start**, **stop**, **heal**, **revive**,
