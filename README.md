@@ -10,8 +10,8 @@ Created by *GoodBritt14*.
 *No Lag when Border Comes*
 
 - Health Tag [Yes]
-- Scoreboard [Nope]
-- 30 Scenarios [Included on Private Release]
+- Scoreboard [Yes]
+- 50+ Scenarios [Included on Private Release]
 - Multi World Support [Yes]
 - Configuration [Nope]
 
