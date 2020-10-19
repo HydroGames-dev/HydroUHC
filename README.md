@@ -10,10 +10,11 @@ Created by *GoodBritt14*.
 *No Lag when Border Comes*
 
 - Health Tag [Yes]
-- Scoreboard [Yes]
+- Scoreboard [Nope]
 - 50+ Scenarios [Included on Private Release]
-- Multi World Support [Yes]
-- Configuration [Nope]
+- World Support [Yes]
+- Configuration [Yes]
+*Less Important Configuration*
 
 ### Commands
 - Basic UHC Commands
@@ -27,7 +28,7 @@ Created by *GoodBritt14*.
 
 ## Plugin Status
 **Status:** ``Under Development``
-**Percentage:** ``68%``
+**Percentage:** ``78%``
 
 ## Contact
 **Discord:** ``GoodBritt14#4618``
