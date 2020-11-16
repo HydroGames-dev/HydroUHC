@@ -44,7 +44,7 @@ Created by *GoodBritt14*.
 **Yes, But only to my Server and Sponsorship**
 
 ###### Can i buy the plugin?
-**Nope, Only Partnership, Sponsors, Friends can have my plugin**
+**Nope, Only Partnership, Sponsors, Buyers can have my plugin**
 
 
 # End Of README
